@@ -1,2 +1,2 @@
-M# blog
+**M# blog**  
 My personal blog
