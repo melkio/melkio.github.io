@@ -1,4 +1,9 @@
+name: melkio.blog
+description: "Alessandro Melchiori's blog"
+url: http://melkio.codiceplastico.com
+markdown: redcarpet
+pygments: true
 auto: true
-markdown: rdiscount
-permalink: /:year/:month/:day/:title
-rdiscount extensions: [smart]
+paginate: 5
+paginate_path: "/page:num"
+title: melkio.blog

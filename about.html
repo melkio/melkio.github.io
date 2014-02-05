@@ -1,0 +1,66 @@
+---
+layout: default
+title: Alessandro Melchiori
+---
+
+<div id="home" class="row">
+<div class="col-md-9">
+<div class="row bio">
+  <div class="col-md-4">
+    <div class="avatar">
+    </div>
+  </div>
+  <div class="col-md-8">
+        <h2>
+          Alessandro Melchiori
+        </h2>
+        <ul class="list-inline tags">
+          <li>
+            <a href="https://twitter.com/amelchiori">
+              Twitter
+            </a>
+          </li>
+          <li>
+            <a href="http://www.linkedin.com/in/amelchiori">
+              Linkedin
+            </a>
+          </li>
+          <li>
+            <a href="http://www.slideshare.net/melkio">
+              Slideshare
+            </a>
+          </li>
+          <li>
+            <a href="http://www.github.com/melkio">
+              Github
+            </a>
+          </li>
+        </ul>
+      
+      <p>
+        Software craftsman, husband, father, ex-sportsman and inquiring reader. Since I was young I have loved taking apart and reassembling things to understand how they work. Now, this passion has become my job: the step from Lego to software development was small.
+        Finding the best possible solution so that a complex system can work at its best and making it run smoothly are the goals of my work. C#, WCF, ESB, MongoDb and Azure make up my survival toolkit and help me cruise through distributed systems and enterprise solutions, with ease.
+        Be it a command or an event, I try to do my best in contributing to the life of the communities that have adopted me (ugidotnet and webdebs), trying to “give back” at least a part of what I have received over these years.
+      </p>
+  </div>
+</div>
+  
+  </div>
+  <div class="col-md-3">
+    <div class="right-panel">
+      <h3>Recent Posts</h3>
+      <ul class="recent-posts">
+        {% for post in site.posts offset: 0 limit: 5  %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>
+
+<script>
+  
+
+</script>
