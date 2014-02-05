@@ -1,9 +1,9 @@
-name: melkio.blog
-description: "Alessandro Melchiori's blog"
+name: M&#35; blog
+description: "() => melkio.OnStage();"
 url: http://melkio.codiceplastico.com
 markdown: redcarpet
 pygments: true
 auto: true
 paginate: 5
 paginate_path: "/page:num"
-title: melkio.blog
+title: M&#35; blog

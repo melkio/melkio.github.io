@@ -143,10 +143,10 @@ p{
     height: 200px;
     width: 200px;
     background-size: 100%;
-    background-image: url('/images/ema.gif');
+    background-image: url('/images/ale.gif');
 }
 
 .avatar:hover{
-    background-image: url('/images/ema2.gif');    
+    background-image: url('/images/ale2.gif');    
 }
 
