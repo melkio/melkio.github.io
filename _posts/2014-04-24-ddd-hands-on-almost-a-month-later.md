@@ -23,9 +23,3 @@ Come al solito, in questi casi, le parti a corollario (colazione, pranzo e cena)
 Che dire poi del "compagno di merende"? @ziobrando lo conoscete: divertente, simpatico, chiacchierone...ah si, dimenticavo...e' anche un sacco preparato sull'argomento :)
 
 Presto si replica e altre cose interessanti sono in cantiere...quindi, che dire: stay tuned!!!
-
-
-
-
-
-
