@@ -60,9 +60,9 @@
           <a href="https://twitter.com/amelchiori" class="twitter-link">@amelchiori</a>
         </p>
       </div>
-           
+
     </header>
-          
+
       {{ content | expand_urls: root_url }}
       <div id="content-footer">
         {% if paginator.total_pages > 1 %}
@@ -91,7 +91,8 @@
     <script>
       var domain = "{{ site.url }}";
     </script>
-    
+    {% include disqus.html %}
+
     <!-- endbuild -->
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -102,6 +103,6 @@
       ga('create', 'UA-39831143-1', 'codiceplastico.com');
       ga('send', 'pageview');
 
-    </script> 
+    </script>
   </body>
 </html>
