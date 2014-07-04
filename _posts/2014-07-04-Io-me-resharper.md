@@ -8,8 +8,8 @@ categories: Technology
 Sono sempre stato un grande fan di [R#](http://www.jetbrains.com/resharper/): il giusto completamento di un ottimo IDE come [Visual Studio](http://www.visualstudio.com/).  
 E' vero, nei suoi primi anni di vita, le performance non erano delle migliori e l'utilizzo delle risorse particolarmente "esoso". Con il passare del tempo grazie alle ottimizzazioni apportate al tool e alla possibilita' di sfruttare macchine sempre piu' carrozzate (RAM e SSD in primis) il peso si avvertiva sempre meno.  
 
-Circa un anno fa, pero', mi sono accorto di alcuni spiacevoli side-effects nell'utilizzo di R#:
-- facendo spesso mentoring, quando mi trovavo a lavorare con sviluppatori che non avevano/potevano installare il tool, la produttivita' ne risentiva pesantemente, rischiando di farmi fare la parte del "dislessico da tastiera"
+Circa un anno fa, pero', mi sono accorto di alcuni spiacevoli side-effects nell'utilizzo di R#:  
+- facendo spesso mentoring, quando mi trovavo a lavorare con sviluppatori che non avevano/potevano installare il tool, la produttivita' ne risentiva pesantemente, rischiando di farmi fare la parte del "dislessico da tastiera"  
 - lavorando su una soluzione piuttosto corposa, che utilizzava pesantemente pacchetti Nuget, per la gestione del versioning e delle reference cross-modulo, R# aveva (ha?) lo spiacevole vizietto di aggiungere le reference, con un semplice Alt+Enter, ma non attraverso il pacchetto nuget, bensi' agganciando la prima versione che trovava in una qualche folder di output di progetto creando non pochi problemi a catena...oltre a quelli che nuget genera di suo...ma questa e' un'altra storia :)
 
 Ma la cosa piu' spiacevole di cui mi sono accorto e' che il tool, di cui continuo a ritenermi uno "sponsor", sembra spegnere la testa di (alcuni) dev: a colpi di Alt+Enter e Alt+Ins si creano classi e costruttori, si aggiungono reference o si "iniettano" dipendenze alla velocita' della luce, limitando qualsiasi pensiero di buon design.  
