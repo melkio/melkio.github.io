@@ -19,8 +19,8 @@ Se ci pensiamo bene non veniamo pagati per quanto veloce pigiamo sulla tastiera,
 E allora mi sono deciso a disinstallarlo. Vi lascio solo immaginare cosa ha comportato, in termini di produttivita' all'inizio, ma poco a poco mi sono adattato ai (pochi) shortcut integrati nell'IDE, ma me li sono fatti bastare.  
 Ogni singola operazione mi costa, potenzialmente, di piu', ma proprio per questo extra-time (si parla di 1 o 2 secondi) ho avuto modo di poter pensare una volta di piu' a quello che stavo facendo...e vi posso assicurare la qualita' del codice prodotto ne ha giovato...o almeno cosi' mi sembra
 
-Ok, detto questo, credo che lo reinstallero' :)  
-E sapete perche'? Perche' qualsiasi tentativo di trovare un "runner" per i test all'altezza di quello integrato in R# ha dato esito negativo: sia in termini di velocita' di esecuzione, sia nella fase di discovery dei test, sia nel livello di dettaglio dell'output e in tanti altri piccoli aspetti.  
+Ok, detto questo, credo che lo reinstallero' :) E sapete perche'?  
+Perche' qualsiasi tentativo di trovare un "runner" per i test all'altezza di quello integrato in R# ha dato esito negativo: sia in termini di velocita' di esecuzione, sia nella fase di discovery dei test, sia nel livello di dettaglio dell'output e in tanti altri piccoli aspetti.  
 Per intenderci, se ogni volta che lancio un test devo aspettare un paio di secondi per avere un feedback, oltre che della produttivita' ne va anche della mia salute mentale.  
 
 Vi assicuro che l'unico motivo per cui, penso, reinstallero' R# e' proprio questo. Per il resto, si puo' fare (cit.), si puo' vivere senza R#: "Sono Alessandro, un dev, e da piu' di un anno lavoro senza R#"...pero' forse lo reinstallo :)
