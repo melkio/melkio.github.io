@@ -1,16 +1,16 @@
----
+Ôªø---
 layout: post
 title:  "Arrivederci CodicePlastico"
 comments: true
 categories: OT
 ---
 
-Questo Ë un post un po' particolare, non tecnico come solitamente faccio su questo blog, ma piu' personale.  
-Quello che sta per iniziare Ë un mese "strano", il mio ultimo mese in CodicePlastico...Ë da un po' che valutavo questa possibilit‡ stufo di dover combattere con la burocrazia italiana, con la difficolt‡ (impossibilit‡?) di fare impresa in Italia. Sapevo che prima o poi sarebbe successo, sapevo che sarei arrivato ad un punto di non ritorno....lo so, mi conosco.  
-Quando alla mia porta si Ë presentata una grande possibilit‡, ho pensato che fosse almeno arrivato il momento di provare a cambiare.  
+Questo √® un post un po' particolare, non tecnico come solitamente faccio su questo blog, ma piu' personale.  
+Quello che sta per iniziare √® un mese "strano", il mio ultimo mese in CodicePlastico...√® da un po' che valutavo questa possibilit√† stufo di dover combattere con la burocrazia italiana, con la difficolt√† (impossibilit√†?) di fare impresa in Italia. Sapevo che prima o poi sarebbe successo, sapevo che sarei arrivato ad un punto di non ritorno....lo so, mi conosco.  
+Quando alla mia porta si √® presentata una grande possibilit√†, ho pensato che fosse almeno arrivato il momento di provare a cambiare.  
 
-Va be...non voglio dilungarmi troppo...l'obiettivo del post Ë un altro: volevo usare questo canale per ringraziare Emanuele, amico e collega di questi ultimi 6 anni. Ci abbiamo provato, ci siamo anche riusciti, ma alla fine, anche a causa di "visioni" differenti abbiamo deciso "di rimanere solo amici" :)  
-Non posso che augurare a lui e a tutto il team di CodicePlastico di continuare sulla strada tracciata: la strada della qualit‡, del desiderio di fare sempre meglio, del volersi sempre migliorare.  
+Va be...non voglio dilungarmi troppo...l'obiettivo del post √® un altro: volevo usare questo canale per ringraziare Emanuele, amico e collega di questi ultimi 6 anni. Ci abbiamo provato, ci siamo anche riusciti, ma alla fine, anche a causa di "visioni" differenti abbiamo deciso "di rimanere solo amici" :)  
+Non posso che augurare a lui e a tutto il team di CodicePlastico di continuare sulla strada tracciata: la strada della qualit√†, del desiderio di fare sempre meglio, del volersi sempre migliorare.  
 
 Cosa mi aspetta ora? Non posso ancora dire l'azienda in cui andro' per problemi di NDA, almeno fino alla firma effettiva del contratto. Mi trasferiro' a Zurigo, prima io e, spero presto, anche il resto della mia famiglia. Nel mio prossimo futuro vedo tanto javascript, ma tanto, tanto, tanto...  
 
