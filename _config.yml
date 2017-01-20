@@ -1,7 +1,7 @@
 name: M&#35; blog
 description: "() => melkio.OnStage();"
 url: http://melkio.codiceplastico.com
-markdown: redcarpet
+markdown: kramdown
 pygments: true
 auto: true
 paginate: 5
