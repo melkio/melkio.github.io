@@ -1,9 +1,9 @@
-<!-- ---
+---
 layout: post
 title:  "Bentornato SQL Server"
 comments: true
-categories: Company
---- -->
+categories: Technology SQLServer
+---
 
 E'da un po' di tempo che ho in mente di scrivere questo post. Come al solito, sono in ritardo :)  
 Vediamo di rimediare...
@@ -39,4 +39,3 @@ In questo scenario avere SQL Server, in modalità PaaS è "tanta roba": signific
 
 Tante altre sono le caratteristiche interessanti di SQL Server (infatti non abbiamo parlato di [In-Memory OLTP](https://docs.microsoft.com/en-us/sql/relational-databases/in-memory-oltp/overview-and-usage-scenarios) o [Columnstore indexes](https://docs.microsoft.com/en-us/sql/relational-databases/indexes/columnstore-indexes-overview))...diciamo che il pretesto del post era di riportare nella giusta prospettiva il mio modo di vedere e approcciare l'utilizzo di SQL Server.  
 Che posso dire: "Welcome back SQL Server"...certi amori non finiscono, fanno dei giri immensi ma poi ritornano :D
-
